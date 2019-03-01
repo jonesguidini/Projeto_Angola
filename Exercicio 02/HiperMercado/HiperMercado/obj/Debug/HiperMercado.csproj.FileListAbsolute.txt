@@ -1,0 +1,15 @@
+C:\Users\ctis\Documents\Estudos\Hipermercado\HiperMercado\HiperMercado\bin\Debug\HiperMercado.exe.config
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\Hipermercado\HiperMercado\HiperMercado\bin\Debug\HiperMercado.exe.config
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\Hipermercado\HiperMercado\HiperMercado\bin\Debug\HiperMercado.exe
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\Hipermercado\HiperMercado\HiperMercado\bin\Debug\HiperMercado.pdb
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\Hipermercado\HiperMercado\HiperMercado\obj\Debug\HiperMercado.csprojAssemblyReference.cache
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\Hipermercado\HiperMercado\HiperMercado\obj\Debug\HiperMercado.csproj.CoreCompileInputs.cache
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\Hipermercado\HiperMercado\HiperMercado\obj\Debug\HiperMercado.exe
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\Hipermercado\HiperMercado\HiperMercado\obj\Debug\HiperMercado.pdb
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 02\HiperMercado\HiperMercado\bin\Debug\HiperMercado.exe.config
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 02\HiperMercado\HiperMercado\bin\Debug\HiperMercado.exe
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 02\HiperMercado\HiperMercado\bin\Debug\HiperMercado.pdb
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 02\HiperMercado\HiperMercado\obj\Debug\HiperMercado.csprojAssemblyReference.cache
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 02\HiperMercado\HiperMercado\obj\Debug\HiperMercado.csproj.CoreCompileInputs.cache
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 02\HiperMercado\HiperMercado\obj\Debug\HiperMercado.exe
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 02\HiperMercado\HiperMercado\obj\Debug\HiperMercado.pdb

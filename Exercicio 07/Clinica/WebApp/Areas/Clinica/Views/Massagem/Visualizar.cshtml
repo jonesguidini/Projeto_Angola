@@ -1,0 +1,67 @@
+﻿<div class="card">
+    <div class="card-header uppercase">
+        <span class="titulo_pagina"><i class="far fa-calendar-alt"></i> @ViewBag.Title</span>
+    </div>
+
+    <div class="card-body">
+        <div class="row">
+
+            <div class="col-lg-12" style="border: 1px solid #fff;">
+
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <span><strong>Cliente:</strong></span> <br />
+                            <span id="Cliente"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2">
+                        <div class="form-group">
+                            <span><strong>Data:</strong></span> <br />
+                            <span id="Data"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2">
+                        <div class="form-group">
+                            <span><strong>Hora:</strong></span> <br />
+                            <span id="Hora"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <span><strong>Duração (minutos):</strong></span> <br />
+                            <span id="Duracao"></span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="card-footer bg-transparent" id="funcoes-massagem">
+        <a href="/Clinica/massagem/reagendar/@Model" class="btn btn-primary js-edit"><i class="far fa-calendar-check"></i> Reagendar</a>
+        
+        <span id="btCancelarMassagem"></span>
+        @*<button data-codmassagem="1" class="btn btn-danger js-bt-cancelarMassagem" ><i class="fas fa-ban"></i> Cancelar </button>*@
+        <a href="javascript: history.go(-1)" class="btn btn-secondary "><i class="fas fa-arrow-circle-left"></i> Voltar</a>
+    </div>
+</div>
+
+@section scripts{
+    <script type="text/javascript" src="~/Scripts/Sistema/Massagens/configFormCadastro.js"></script>
+    <script type="text/javascript" src="~/Scripts/Sistema/Massagens/configDatatable.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var codMassagem = '@Model';
+
+            // carrega datatable
+            carregarDadosMassagem(codMassagem);
+
+        });
+    </script>
+}

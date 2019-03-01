@@ -1,0 +1,59 @@
+﻿<div class="card">
+    <div class="card-header uppercase">
+        <span class="titulo_pagina"><i class="fas fa-info-circle"></i> @ViewBag.LinkBaseControllerLabel</span>
+    </div>
+
+    <div class="card-body">
+        <div class="row">
+
+            <div class="col-lg-12" style="border: 1px solid #fff;">
+
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <span><strong>Razão Social:</strong></span> <br />
+                            <span id="RazaoSocial"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <span><strong>CNPJ:</strong></span> <br />
+                            <span id="CNPJ"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <span><strong>Telefone:</strong></span> <br />
+                            <span id="Telefone"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <hr class="hr-div-info" />
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <span><strong>Endereço:</strong></span> <br />
+                            <span id="Endereco"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+@section scripts{
+
+    <script type="text/javascript" src="~/Scripts/Sistema/Clinica/configInfoClinica.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // carrega datatable
+            //carregaDatatable();
+            carregaInfoClinica();
+        });
+    </script>
+}

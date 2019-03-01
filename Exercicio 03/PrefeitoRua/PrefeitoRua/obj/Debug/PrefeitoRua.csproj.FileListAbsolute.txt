@@ -1,0 +1,20 @@
+C:\Users\ctis\Documents\Estudos\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.exe.config
+C:\Users\ctis\Documents\Estudos\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.exe
+C:\Users\ctis\Documents\Estudos\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.pdb
+C:\Users\ctis\Documents\Estudos\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.csprojResolveAssemblyReference.cache
+C:\Users\ctis\Documents\Estudos\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.exe
+C:\Users\ctis\Documents\Estudos\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.pdb
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.exe.config
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.exe
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.pdb
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.csprojAssemblyReference.cache
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.csproj.CoreCompileInputs.cache
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.exe
+C:\Users\Jones\OneDrive\Área de Trabalho\PROVA ANGOLA\Estudos\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.pdb
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 03\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.exe.config
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 03\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.exe
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 03\PrefeitoRua\PrefeitoRua\bin\Debug\PrefeitoRua.pdb
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 03\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.csprojAssemblyReference.cache
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 03\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.csproj.CoreCompileInputs.cache
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 03\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.exe
+C:\Users\Jones\OneDrive\Documentos\GitHub\Projeto_Angola\Exercicio 03\PrefeitoRua\PrefeitoRua\obj\Debug\PrefeitoRua.pdb
