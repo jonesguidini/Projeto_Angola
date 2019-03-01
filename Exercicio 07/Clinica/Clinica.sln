@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Apresentacao", "01 - Apresentacao", "{4DCF1AEA-AE72-4C3F-8A55-E3851A0B1400}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Dominio", "02 - Dominio", "{C983E8F4-4CEE-47E6-A8CA-E7B387BC8DCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infra", "03 - Infra", "{683F83AA-6DCD-4739-9E11-B14AC9DD8977}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.1 - Data", "03.1 - Data", "{36181FAE-07DD-4846-8745-750465191D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinica.Infra.Data", "Clinica.Infra.Data\Clinica.Infra.Data.csproj", "{A29EDA8A-A879-4790-BE5D-72D3ACE0CDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinica.Dominio", "Clinica.Dominio\Clinica.Dominio.csproj", "{269C0378-6397-46C3-B923-05266D71EAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinica.Apresentacao.WebApp", "WebApp\Clinica.Apresentacao.WebApp.csproj", "{F5DBD11C-D2C4-4DD9-80CC-14214A5C3AF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.2 - WebService", "03.2 - WebService", "{9396A00D-32A8-407D-B0E7-409888656CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinica.Infra.WebService.WebApi", "Clinica.Infra.WebService.WebApi\Clinica.Infra.WebService.WebApi.csproj", "{80A39EEA-2671-4DB1-8DBE-11CE1D0EA2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29EDA8A-A879-4790-BE5D-72D3ACE0CDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29EDA8A-A879-4790-BE5D-72D3ACE0CDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29EDA8A-A879-4790-BE5D-72D3ACE0CDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29EDA8A-A879-4790-BE5D-72D3ACE0CDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269C0378-6397-46C3-B923-05266D71EAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269C0378-6397-46C3-B923-05266D71EAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269C0378-6397-46C3-B923-05266D71EAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269C0378-6397-46C3-B923-05266D71EAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DBD11C-D2C4-4DD9-80CC-14214A5C3AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DBD11C-D2C4-4DD9-80CC-14214A5C3AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DBD11C-D2C4-4DD9-80CC-14214A5C3AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DBD11C-D2C4-4DD9-80CC-14214A5C3AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A39EEA-2671-4DB1-8DBE-11CE1D0EA2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A39EEA-2671-4DB1-8DBE-11CE1D0EA2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A39EEA-2671-4DB1-8DBE-11CE1D0EA2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A39EEA-2671-4DB1-8DBE-11CE1D0EA2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{36181FAE-07DD-4846-8745-750465191D06} = {683F83AA-6DCD-4739-9E11-B14AC9DD8977}
+		{A29EDA8A-A879-4790-BE5D-72D3ACE0CDE7} = {36181FAE-07DD-4846-8745-750465191D06}
+		{269C0378-6397-46C3-B923-05266D71EAB7} = {C983E8F4-4CEE-47E6-A8CA-E7B387BC8DCF}
+		{F5DBD11C-D2C4-4DD9-80CC-14214A5C3AF7} = {4DCF1AEA-AE72-4C3F-8A55-E3851A0B1400}
+		{9396A00D-32A8-407D-B0E7-409888656CAE} = {683F83AA-6DCD-4739-9E11-B14AC9DD8977}
+		{80A39EEA-2671-4DB1-8DBE-11CE1D0EA2A2} = {9396A00D-32A8-407D-B0E7-409888656CAE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B839054-A5A0-480A-A31F-10D1AE212C3E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://visuweb.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Clinica.Dominio\\Clinica.Dominio.csproj
+		SccProjectTopLevelParentUniqueName1 = Clinica.sln
+		SccProjectName1 = Clinica.Dominio
+		SccLocalPath1 = Clinica.Dominio
+		SccProjectUniqueName2 = Clinica.Infra.Data\\Clinica.Infra.Data.csproj
+		SccProjectTopLevelParentUniqueName2 = Clinica.sln
+		SccProjectName2 = Clinica.Infra.Data
+		SccLocalPath2 = Clinica.Infra.Data
+		SccProjectUniqueName3 = Clinica.Infra.WebService.WebApi\\Clinica.Infra.WebService.WebApi.csproj
+		SccProjectTopLevelParentUniqueName3 = Clinica.sln
+		SccProjectName3 = Clinica.Infra.WebService.WebApi
+		SccLocalPath3 = Clinica.Infra.WebService.WebApi
+		SccProjectUniqueName4 = WebApp\\Clinica.Apresentacao.WebApp.csproj
+		SccProjectTopLevelParentUniqueName4 = Clinica.sln
+		SccProjectName4 = WebApp
+		SccLocalPath4 = WebApp
+	EndGlobalSection
+EndGlobal

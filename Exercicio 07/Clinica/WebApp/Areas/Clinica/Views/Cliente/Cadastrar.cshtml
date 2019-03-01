@@ -1,0 +1,75 @@
+﻿
+<div class="card">
+    <div class="card-header uppercase">
+        <span class="titulo_pagina"><i class="fas fa-user-tie"></i> @ViewBag.Title</span>
+    </div>
+
+    <div class="card-body">
+        <form id="formularioAddRegistro">
+
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="form-group">
+                        <label for="Nome" class="required">Nome</label>
+                        <input type="text" name="Nome" class="form-control capitalize" maxlength="50" id="Nome">
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="form-group">
+                        <label for="Sobrenome">Sobrenome</label>
+                        <input type="text" name="Sobrenome" class="form-control" id="Sobrenome">
+                    </div>
+                </div>
+
+                <div class="col-lg-2">
+                    <div class="form-group">
+                        <label for="CPF" class="required">CPF</label>
+                        <input type="text" name="CPF" class="form-control" id="CPF">
+                    </div>
+                </div>
+
+                <div class="col-lg-2">
+                    <div class="form-group">
+                        <label for="CPF" class="Telefone">Telefone</label>
+                        <input type="text" name="Telefone" class="form-control" id="Telefone">
+                    </div>
+                </div>
+
+                <div class="col-lg-2">
+                    <div class="form-group">
+                        <label for="Celular" class="Celular required">Celular</label>
+                        <input type="text" name="Celular" class="form-control" id="Celular" placeholder="(__).____-____">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label for="Email" class="required">Endereço</label>
+                        <input type="text" name="Endereco" class="form-control lowercase" id="Endereco" maxlength="150">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row lista-errors-form" id="lista-msgs-error">
+                <div class="col-lg-12">
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="card-footer bg-transparent">
+        <button class="btn btn-info" id="btSalvaRegistro" type="button"><i class="fas fa-save"></i> Salvar</button>
+        <button class="btn btn-danger" id="btLimparFormulario" onclick="limparFormularioCadastro()" type="reset"><i class="far fa-trash-alt"></i> Limpar</button>
+        <a href="javascript: history.go(-1)" class="btn btn-secondary "><i class="fas fa-arrow-circle-left"></i> Voltar</a>
+    </div>
+</div>
+
+@section scripts{
+    <script type="text/javascript" src="~/Scripts/Sistema/Clientes/configFormCadastro.js"></script>
+}
+
+
+
